@@ -10,10 +10,10 @@ It is a classic word-guessing game where the player attempts to guess a hidden w
 
 ```pkg install python
 
-```git clone https://github.com/EliezerSunny/Hangman-game.git 
+git clone https://github.com/EliezerSunny/Hangman-game.git 
 
-```cd Hangman-game
+cd Hangman-game
 
-```python Hangman.py
+python Hangman.py```
 
 Enjoy your game!!! 🤗
