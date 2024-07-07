@@ -8,12 +8,20 @@ It is a classic word-guessing game where the player attempts to guess a hidden w
 
 **Note:** install python before running the script by using this command: 
 
-```pkg install python
+```sh
+pkg install python
+```
 
-git clone https://github.com/EliezerSunny/Hangman-game.git 
+```sh
+git clone https://github.com/EliezerSunny/Hangman-game.git
+```
 
+```sh
 cd Hangman-game
+```
 
-python Hangman.py```
+```sh
+python Hangman.py
+```
 
 Enjoy your game!!! 🤗
